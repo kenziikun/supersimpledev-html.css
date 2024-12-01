@@ -1,0 +1,33 @@
+a {
+  color: rgb(0, 113, 133);
+}
+.judul {
+  font-size: 22px;
+  font-weight: 600;
+}
+.harga {
+  color: rgb(0, 118, 0);
+  font-weight: 600;
+}
+.btn-add {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  width: 120px;
+  border-radius: 17px;
+  margin-right: 6px;
+}
+.btn-buy {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+  width: 120px;
+  border-radius: 17px;
+  margin-right: 6px;
+}
