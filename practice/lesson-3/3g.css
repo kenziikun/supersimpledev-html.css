@@ -1,0 +1,50 @@
+a {
+  color: rgb(22, 102, 116);
+  transition: all 0.15s;
+}
+a:hover {
+  color: rgb(159, 71, 32);
+}
+
+.judul {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.harga {
+  color: rgb(0, 124, 0);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.add {
+  background-color: rgb(253, 210, 17);
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  height: 30px;
+  width: 130px;
+  border-radius: 15px;
+  margin-right: 6px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.add:hover {
+  background-color: rgb(244, 193, 2);
+}
+
+.buy {
+  background-color: rgb(252, 152, 25);
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  height: 30px;
+  width: 130px;
+  border-radius: 15px;
+  margin-right: 6px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.buy:hover {
+  background-color: rgb(248, 125, 1);
+}
