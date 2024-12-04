@@ -1,0 +1,16 @@
+button {
+  background-color: #1d9bf0;
+  font-size: 15px;
+  color: white;
+  padding: 7px 16px;
+  border: none;
+  font-weight: bold;
+  border-radius: 50px;
+  transition: all 0.15s;
+}
+button:hover {
+  box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.15);
+}
+button:active {
+  opacity: 0.8;
+}

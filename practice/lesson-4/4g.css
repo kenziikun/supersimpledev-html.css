@@ -1,0 +1,14 @@
+button {
+  background-color: #cc0000;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  transition: all 0.15s;
+}
+button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+button:active {
+  opacity: 0.6;
+}
