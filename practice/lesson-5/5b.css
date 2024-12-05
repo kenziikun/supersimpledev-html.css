@@ -1,0 +1,14 @@
+p {
+  font-family: arial;
+}
+
+.judul {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.merah {
+  font-size: 20px;
+  color: red;
+  font-style: italic;
+}

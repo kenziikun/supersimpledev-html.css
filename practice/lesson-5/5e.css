@@ -1,0 +1,42 @@
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.merah {
+  color: red;
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.mack {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(26, 26, 26);
+  margin-bottom: 4px;
+}
+
+.judul {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.harga {
+  font-size: 14px;
+  color: gray;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.button {
+  color: white;
+  background-color: rgb(17, 99, 251);
+  padding: 6px 18px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 12px;
+}
