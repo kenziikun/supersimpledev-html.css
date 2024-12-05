@@ -1,0 +1,28 @@
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.harga {
+  font-size: 32px;
+  font-weight: bold;
+}
+.dolar {
+  color: gray;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.kenaikan {
+  color: green;
+  margin-top: 5px;
+}
+
+.deskripsi {
+  color: gray;
+  margin-top: 5px;
+}
+.penurunan {
+  color: red;
+}

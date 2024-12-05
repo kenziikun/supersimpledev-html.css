@@ -1,0 +1,25 @@
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.judul {
+  font-weight: bold;
+}
+.akun {
+  font-weight: 100;
+  color: gray;
+}
+
+.status {
+  width: 500px;
+  margin-top: 8px;
+}
+
+.status-akhir {
+  margin-top: 16px;
+}
+.tag {
+  color: rgb(0, 128, 255);
+}
