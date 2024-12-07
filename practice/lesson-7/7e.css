@@ -1,0 +1,12 @@
+input {
+  font-size: 16px;
+  border: none;
+  font-family: arial;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-left: 50px;
+  box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.15);
+  border-radius: 99px;
+  padding: 15px 20px;
+  width: 400px;
+}
