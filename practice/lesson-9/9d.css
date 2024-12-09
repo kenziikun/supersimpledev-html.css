@@ -1,0 +1,24 @@
+.box {
+  background-color: rgb(32, 32, 32);
+  display: inline-block;
+  width: 350px;
+  padding: 10px 12 px;
+}
+
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.judul {
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.deskripsi {
+  font-size: 16px;
+  color: rgb(169, 169, 169);
+}
