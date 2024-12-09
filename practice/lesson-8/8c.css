@@ -1,0 +1,18 @@
+img {
+  display: block;
+  margin: auto;
+  width: 400px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+input {
+  margin: auto;
+  display: block;
+  border: none;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.15);
+  width: 800px;
+  padding: 12px 18px;
+  font-size: 20px;
+  border-radius: 99px;
+}

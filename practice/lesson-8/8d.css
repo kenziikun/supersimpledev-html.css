@@ -1,0 +1,32 @@
+input {
+  font-size: 16px;
+  padding: 10px 12px;
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+
+.first,
+.last {
+  margin-bottom: 10px;
+  width: 150px;
+}
+.first {
+  margin-right: 5px;
+}
+
+.email {
+  display: block;
+  width: 335px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: rgb(53, 53, 250);
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 12px;
+  width: 360px;
+  border-radius: 8px;
+}

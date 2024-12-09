@@ -1,0 +1,15 @@
+.deskripsi {
+  width: 250px;
+  display: inline-block;
+}
+
+.yes,
+.no {
+  padding: 4px 10px;
+}
+
+.deskripsi,
+.yes,
+.no {
+  vertical-align: middle;
+}
