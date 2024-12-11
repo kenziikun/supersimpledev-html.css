@@ -1,0 +1,10 @@
+div {
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
+.satu {
+  background-color: lightblue;
+}
+.dua {
+  background-color: lightpink;
+}
