@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.15);
+  flex-direction: column;
+  width: 300px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 4px;
+}
+
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.satu,
+.dua,
+.tiga {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 12px;
+}
+
+.notif {
+  background-color: rgb(42, 91, 249);
+  color: white;
+  padding: 3px 10px;
+  border-radius: 20px;
+}
