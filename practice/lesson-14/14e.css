@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 10px;
+  left: 300px;
+  right: 300px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.15);
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+}
+img {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+p {
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 700;
+}
+
+.right {
+  display: flex;
+  gap: 8px;
+}
+.add-btn {
+  background-color: rgb(34, 34, 255);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-weight: 700;
+  border-radius: 4px;
+}
+.msg-btn {
+  background-color: rgb(227, 229, 232);
+  color: black;
+  border: none;
+  padding: 10px 15px;
+  font-weight: 700;
+  border-radius: 4px;
+}

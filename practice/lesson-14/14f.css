@@ -1,0 +1,67 @@
+body {
+  height: 3000px;
+}
+
+.sidebar-1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 70px;
+  background-color: rgb(32, 34, 37);
+  display: flex;
+}
+
+.container-img {
+  align-items: center;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding-top: 20px;
+  gap: 10px;
+}
+img {
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.sidebar-2 {
+  background-color: rgb(49, 49, 49);
+  position: fixed;
+  top: 0;
+  left: 70px;
+  bottom: 0;
+  width: 200px;
+  display: flex;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: arial;
+  color: rgb(133, 136, 140);
+}
+
+.column {
+  width: 100%;
+  padding-top: 20px;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+  align-items: center;
+}
+.judul {
+  color: white;
+}
+.nambah {
+  color: rgb(133, 136, 140);
+  font-size: 28px;
+}
